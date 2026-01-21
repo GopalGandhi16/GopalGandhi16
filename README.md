@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-🎓 **2nd Year Computer Science Engineering Student**  
+🎓 **3rd Year Computer Science Engineering Student**  
 💻 Strong interest in **Data Structures & Algorithms (Java)** and **Full Stack Development**  
 🚀 Currently focused on:
 - Problem Solving & Competitive Coding  
